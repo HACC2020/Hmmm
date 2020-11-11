@@ -10,8 +10,10 @@
     padding-bottom: 15px;
     text-align: center;
     background: #ddd;
-    border-radius: 25px;
+    border-top: 25px;
     float: middle;
+    display: block;
+    width: 100%;
   }
 
 .bar:hover {
@@ -24,4 +26,10 @@
     text-align: center;
     background: #777;
     float: middle;
+    width: 100%;
+    font-size: 24px;
+  }
+
+  #ags {
+      display: none;
   }
