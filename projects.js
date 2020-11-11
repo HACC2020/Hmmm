@@ -32,5 +32,53 @@
     }
 */
 
+function hide () {
+    document.getElementById('info').style.display = 'none';
+}
+
+function Id () {
+    document.getElementByClassName("id").style.display = "visible";
+}
+
+function Aname () {
+    document.getElementByClassName("an").style.display = "visible";
+}
+
+function Pn () {
+    document.getElementByClassName("pn").style.display = "visible";
+}
+
+function A () {
+    document.getElementByClassName("a").style.display = "visible";
+}
+
+function BV () {
+    document.getElementByClassName("bv").style.display = "visible";
+}
+
+function PR () {
+    document.getElementByClassName("pr").style.display = "visible";
+}
+
+function PlS () {
+    document.getElementByClassName("pls").style.display = "visible";
+}
+
+function AS () {
+    document.getElementByClassName("as").style.display = "visible";
+}
+
+function PrjS () {
+    document.getElementByClassName("prjs").style.display = "visible";
+}
+
+function CD () {
+    document.getElementByClassName("cd").style.display = "visible";
+}
+
+function PrjC () {
+    document.getElementByClassName("prjc").style.display = "visible";
+}
+
 /*Attempted to convert csv file using modified code from https://www.aspsnippets.com/Articles/Import-CSV-File-to-HTML-Table-using-JavaScript.aspx*/
 /*Ended up not using it, attempts to do modifications to use files from the website automatically didn't work*/

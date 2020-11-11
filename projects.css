@@ -62,7 +62,7 @@
 
 .sidebar
 {
-  height:1686px;
+  height:1200px;
   width: 307px;
   float:left;
   margin-top:20px;
@@ -74,19 +74,32 @@
 {
   height:100px;
   width: 307px;
-  margin-top:-16px;
-  background-color:blue;
+  background-color:teal;
+  text-align:center;
+  font-size:15pt;
+  float:left;
   color:white;
+}
+
+.select:hover
+{
+  background-color:white;
+  color:teal;
+}
+
+div:target
+{
+  background-color:white;
+  color:teal;
 }
 
 .container
 {
-  height:686px; 
-  width:1200px;
+  height:1200px; 
+  width:1190px;
   float:left;
   margin-top:20px;
   margin-left:14px;
-  background-color: orange;
 }
 
 table, th, td
@@ -94,4 +107,15 @@ table, th, td
   color:black;
   border: 1px solid black;
   border-collapse: collapse;
+}
+
+#an
+{
+  margin-top:0px;
+  height:100px; 
+  width:1190px;
+  float:left;
+  color:black;
+  background-color:white; 
+  font-size:15pt;
 }
