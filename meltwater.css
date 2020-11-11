@@ -1,0 +1,108 @@
+body {
+	background-color: #C0C0C0;
+}
+#titleSpace {
+	background-color: teal;
+	height: 90px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#title {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 60px;
+	text-align: center;
+}
+#meltwatercss {
+	background-color: teal;
+	width: 450px;
+	height: 50px;
+	font-size: 30px;
+	border:solid;
+	border-color: #000000;
+	border-width: 4px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	text-align: center;
+	animation-name: meltwater;
+	animation: meltwater 3s;
+}
+@keyframes meltwater {
+	0% {
+		transform: translate(0,50px) scale(2,2);
+	}
+	15% {
+		transform: translate(0,50px) scale(2,2);
+	}
+	50% {
+		transform: translate(0,50px) scale(1,1);
+	}
+	100% {
+		transform: translate(0,0px);
+	}
+}
+#container {
+	width: 788px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	animation-name: container;
+	animation: container 3s;
+}
+@keyframes container {
+	0% {
+		transform: translate(0,70px);
+	}
+	15% {
+		transform: translate(0,70px);
+	}
+	50% {
+		transform: translate(0,70px);
+	}
+	100% {
+		transform: translate(0,0px);
+	}
+}
+#one {
+	width: 250px;
+	height: 300px;
+	border:solid;
+	float: left;
+	border-radius: 10px;
+	border-width: 3px;
+	margin-left: auto;
+	background-color: #f5f5f5;
+}
+#two {
+	width: 250px;
+	height: 300px;
+	border:solid;
+	float: left;
+	border-radius: 10px;
+	border-width: 3px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #f5f5f5;
+}
+#three {
+	width: 250px;
+	height: 300px;
+	border:solid;
+	float: left;
+	border-radius: 10px;
+	border-width: 3px;
+	background-color: #f5f5f5;
+}
+#numberID {
+	width: 400px;
+	height: 20px;
+	border:solid;
+	border-width: 3px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}

@@ -1,0 +1,40 @@
+body {
+	background-color: #C0C0C0;
+}
+#titleSpace {
+	background-color: teal;
+	height: 90px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#title {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 60px;
+	text-align: center;
+}
+#name {
+	font-size: 40px;
+	background-color: #ffffff;
+}
+#name:hover {
+	cursor: default;
+}
+#container {
+	width: 800px;
+	background-color: #D3D3D3;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	border-width: 4px;
+	margin-top: 50px;
+}
+.tab {
+	border:solid;
+	border-width: 2px;
+	padding: 0px 0px 0px 0px;
+}
+.tab:hover {
+	background-color: #A9A9A9;
+	cursor: pointer;
+}

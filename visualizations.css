@@ -1,0 +1,36 @@
+body {
+	background-color: teal;
+}
+
+
+#topbar {
+	width: 25%;
+	height: 20%;
+	margin-left: 6%;
+	background-color: #D3D3D3;
+	color: black;
+	float: left;
+	font-size: 3vh;
+	text-align: center;
+	font-family: monospace;
+	border-style: outset;
+} 
+
+h1 {
+	font-family: Lucida Console;
+	font-size: 10vh;
+	background-color: #D3D3D3;
+	text-align: center;
+}
+
+h2 {
+	font-family: Arial;
+	font-size: 6vh;
+	text-align: center;
+	color: white;
+}
+
+#topbar:hover {
+	background-color: teal;
+	cursor: pointer;
+}
