@@ -1,0 +1,274 @@
+id,ownerAgencyName,name,applications,projectStatus,businessValue,projectRisk,lifecycleCustom:planningStarted,lifecycleCustom:approved,lifecycleCustom:projectedStart,lifecycleCustom:cancelled,lifecycleCustom:projectedCompletion
+07ec9a62-5e84-42a7-8fd1-5802d05a838d,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Juvenile Justice Information System - Phase 3 Implementation,Juvenile Justice information System (JJIS),,,,,,2018-11-01,,2020-11-01
+213c3b97-bfcd-4aca-a225-01cb0408697d,Budget & Finance (Dept) / Employer-Union Health Trust Fund,BUF - EUTF - Cloud Hosting (FY20),BUF - EUTF - Health Benefits Administration System (BAS),,largeBusinessBenefit,lowProjectRisk,,,2019-11-02,,2020-11-02
+ac30c21a-659f-4f17-b345-039dc8e3682a,Hawaiian Home Lands (Dept) / Homestead Services Division,Water billing system - Licensing/Support FY20,Utility Star Gold Version 9.0,green,,,,,2019-11-14,,2020-11-13
+a0ab9a23-d9b3-4c1d-b7e4-e1266f3ed26d,Attorney General (Dept) / Hawaii Criminal Justice Data Center,CJIS-Hawaii - CHIEF,,,,,,,2019-03-12,,2020-11-23
+82bae2a1-199a-46ef-ae36-f9deb8b238be,Health (Dept) / Health Resources Administration,DOH HR Maven - Disease Surveillance COTS,DOH Electronic Disease Surveillance System,,significantBusinessBenefit,moderateProjectRisk,,,2019-12-20,,2020-11-30
+fbd2c979-4ad9-4558-a9c7-126c41436613,Budget & Finance (Dept) / Employee Retirement System,BUF - ERS - Accounting System Upgrade / Replacement,BUF - ERS - Accounting System (Cloud),,,moderateProjectRisk,,,2019-04-16,,2020-12-01
+f98a3ba6-44d0-47bd-8e41-8f4107904fed,Human Services (Dept) / Office of Information Technology,ADOBE Forms & Sites,,,,,,,2018-12-10,,2020-12-09
+e47a59f0-850c-4abf-8cb6-507e8ff89acd,Defense (Dept) / Chief Information Officer,INET Expansion,,green,significantBusinessBenefit,,,,2018-10-05,,2020-12-13
+2d2151c3-a375-4f14-a7ff-070f7d980a8c,Transportation (Dept) / Admin Division,DOT-ADMIN: Computer Room Core Network Upgrade,,green,largeBusinessBenefit,moderateProjectRisk,,,2018-08-17,,2020-12-15
+673b7330-55ba-4d83-983a-84e84653b5e2,Transportation (Dept) / Airports Division,Upgrade and Maintain PropWorks (FY20),,,,,,,2019-09-16,,2020-12-15
+9c7993c2-d8df-4f7a-853f-fa798b67fa68,Attorney General (Dept) / Hawaii Criminal Justice Data Center,ABIS,ABIS - Automated Biometric Identification System,,,,,,2017-03-26,,2020-12-26
+32d99785-1985-4dd8-a4d9-4fed2c7a7392,Human Services (Dept) / Office of Information Technology,Network Support,,,,,,,2018-07-01,,2020-12-29
+56021c43-0ad8-4d8b-81dd-1eeeab6642b2,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Analytics,HIJIS - Hawaii Integrated Justice Information Sharing,,largeBusinessBenefit,,,,2020-01-01,,2020-12-30
+6ebae61b-cd29-449e-8175-01d0210c7117,Transportation (Dept) / Admin Division,OA Software Maintenance 1/2,,,,,,,2019-07-03,,2020-12-30
+a44b25f9-5c5a-4f3d-9e65-dc73cdb8d6c6,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Query - Vehicles,,,,,,,2020-01-01,,2020-12-30
+f213f04c-ac0c-4363-89e5-a383ede43150,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Telecommunications,,,,,,,2017-07-01,,2020-12-30
+cf01c338-db5c-437b-ba12-d10360c9798d,Transportation (Dept) / Admin Division,Alternate DOT-to-NGN Circuit,,green,significantBusinessBenefit,lowProjectRisk,,,2018-05-15,,2020-12-31
+c37180b2-9695-46f7-9b7a-3269f35f3e60,Accounting & General Services (Dept) / Administrative Services Office,Annual 1099 Reporting (Operational),,,,,,,2018-01-01,,2020-12-31
+b2bc68bd-85c0-4a5f-a15c-845c759cb523,Defense (Dept) / Chief Information Officer,Bandwidth Upgrades at Remote Offices,,green,significantBusinessBenefit,moderateProjectRisk,2018-08-01,2019-01-01,2019-01-01,,2020-12-31
+99164164-929c-4678-9b4c-8628ee2a4947,Commerce & Consumer Affairs (Dept) / Business Registration Division,BREG – Securities IT solution,,,,,,,2018-01-01,,2020-12-31
+c3d79293-9528-445d-9181-d74d667eece6,Budget & Finance (Dept) / Employee Retirement System,BUF - ERS - Replacement of Current Telephone System with ACD System,,,,,,,2020-07-01,,2020-12-31
+425a672b-50c4-4f17-b41a-50c0bf3defbb,Human Services (Dept) / Benefits Employment and Support Services Division,Cares Act Projects,HANA;P-EBT Status Portal,,significantBusinessBenefit,moderateProjectRisk,2020-05-15,,,,2020-12-31
+d117816e-8f9e-4bbb-90bb-08c26b7b4ce7,Health (Dept) / Health Resources Administration,DOH DH Re-engineer the Vital Statistics System (Phase I),DOH Electronic Birth Reporting System (EBRS);DOH Electronic Death Reporting System (EDRS);DOH Electronic Marriage Application and License Reporting System;Vital Statistics System (VSS),,significantBusinessBenefit,highProjectRisk,,,2018-07-02,,2020-12-31
+812d0cb3-5156-4143-86aa-6e36802bbefe,Attorney General (Dept) / Child Support Enforcement Agency,DSS System - Maintenance / Support,Decision Support System (DSS),green,significantBusinessBenefit,highProjectRisk,,,2020-01-01,,2020-12-31
+87c170ad-c5bd-4e45-98f2-9b98a5ae5581,"Business, Economic Dev & Tourism (Dept) / Foreign Trade Zone Division",FTZ-Warehouse Inventory Mgnt Software and Hardware,Hawaii Foreign-Trade Zone Information Processing System (HFTZIPS) Inventory Management System,,,,,,2020-07-01,,2020-12-31
+177761b9-55dc-406d-8571-c7b4242b3e80,Accounting & General Services (Dept) / State Procurement Office,HANDS,,,,,,,2018-01-01,,2020-12-31
+a470c688-d2d2-4949-8c68-16ef31cf860d,Human Resources Development (Dept) / Information Systems Office,HRDNet Desktop Refresh,,,,,,,2019-07-02,,2020-12-31
+416fa5e1-dbf3-436c-83e0-f35160b59a4e,Accounting & General Services (Dept),Inventory System (Operational),,,,,,,2018-01-01,,2020-12-31
+ff87180c-eb59-4209-8fb6-e0d2aade5c96,Attorney General (Dept) / Hawaii Criminal Justice Data Center,LOTC,,,,,,,2015-12-31,,2020-12-31
+1b1227c7-66d2-4531-b109-6eee9676ba8a,Accounting & General Services (Dept) / Central Services Division,Materials Inventory System (Operational),,,,,,,2018-01-01,,2020-12-31
+a88f1e3e-0fc1-49cc-b235-ab65fb486732,Accounting & General Services (Dept),Microcomputer Maintenance and Replenishment,,,,,,,2018-01-01,,2020-12-31
+969a65d6-7009-42cb-8702-61690cc5e402,Accounting & General Services (Dept) / Automotive Management Division,Motor Pool and Parking Fixed Asset System (Operational),,,,,,,2018-01-01,,2020-12-31
+4e6e9543-f135-446a-a012-7da1ccb18916,Accounting & General Services (Dept) / Automotive Management Division,Motor Pool System (Operational),,,,,,,2018-01-01,,2020-12-31
+8ee2e0e5-d35e-4a3c-8799-3eed3912169c,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Network Upgrade - Disaster Recovery,,,,,,,2018-04-01,,2020-12-31
+68857441-1f56-45ec-8aaf-141f8f920020,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Nlets,,,,,,,2016-01-01,,2020-12-31
+25092dd4-2f94-4788-b7d1-fc3303123e1a,"Business, Economic Dev & Tourism (Dept) / Office of Planning",OP Fiscal Management Database Modifications,MS Access Fiscal Management Database,,,,,,2019-06-10,,2020-12-31
+aaf05e52-a8da-4c25-84fe-74baf0bce348,Accounting & General Services (Dept) / Automotive Management Division,Parking Control System (Operational),,,,,,,2018-01-01,,2020-12-31
+900a8eab-bb3a-4097-aa44-b57cf37b9203,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Peak Performance,,,,,,,2016-01-01,,2020-12-31
+cdb17d08-3d30-44d7-a878-7dda221aa3ff,Accounting & General Services (Dept) / Public Works Division,Project Financial Accounting System (Operational),,,,,,,2018-01-01,,2020-12-31
+443aa1dc-d9c6-44e4-bfdb-33ecdd3519f6,Accounting & General Services (Dept) / Public Works Division,Project Planning System (Operational),,,,,,,2018-01-01,,2020-12-31
+285c2de8-7788-418b-be0d-a24afa081372,Accounting & General Services (Dept) / Public Works Division,Project Plans Registration System (Operational),,,,,,,2018-01-01,,2020-12-31
+c2b4a4d0-5061-4b1a-9912-8b282c47cdf2,Accounting & General Services (Dept) / Public Works Division,Project Professional Services Tracking System (Operational),,,,,,,2018-01-01,,2020-12-31
+e9704d11-ce68-4429-a83f-a2c0fd483582,Accounting & General Services (Dept) / Public Works Division,Project Time Accounting System (Operational),,,,,,,2018-01-01,,2020-12-31
+13f160fe-89cd-4883-b89e-3ce2cd32d97b,Accounting & General Services (Dept) / Administrative Services Office,Risk Management System (Operational),,,,,,,2018-01-01,,2020-12-31
+e2d63797-c50d-4dfe-8f41-341603f61aac,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Software Refresh,,,,,,,2018-01-01,,2020-12-31
+3658928c-522f-4fba-b824-5ccbf543a161,Accounting & General Services (Dept),Vacation and Sick Leave System (Operational),,,,,,,2018-01-01,,2020-12-31
+972f23eb-b063-40d5-8528-0ac68cb8443b,Accounting & General Services (Dept),Website Maintenance,,,,,,,2018-01-01,,2020-12-31
+aace6ded-006d-4758-ab85-00155073f681,Accounting & General Services (Dept) / Central Services Division,Work Order System (Operational),,,,,,,2018-01-01,,2020-12-31
+6dc6eebc-3638-42af-9557-dbef7f5045fb,Defense (Dept) / Hawaii Youth Challenge Academy,YCA:  Cable plant modernization,,yellow,significantBusinessBenefit,moderateProjectRisk,2019-05-01,,2019-06-01,,2020-12-31
+5ec664c1-7f30-4ee0-82f4-2e26c463a2f4,Defense (Dept) / Hawaii Youth Challenge Academy,YCA:  Security Camera and WiFi Expansion,,,littleBusinessBenefit,,,,2019-06-08,,2020-12-31
+15146f90-9479-4c5a-8182-03d7bd5147df,Accounting & General Services (Dept) / Accounting Division,Bond Fund System (Operational),Bond Fund,,,,,,2018-01-02,,2021-01-01
+ebafc692-4835-4bcd-a920-30190d485488,Transportation (Dept) / Highways Division,Coordinated Data System (CDS) Maintenance Services,,,,,,,2018-01-02,,2021-01-01
+cbb3d0ff-b672-4d81-94f0-7451e57e28ae,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Federated Identity Management,,,,,,,2016-01-01,,2021-01-01
+9ad1040f-9b88-4766-be67-306359d2f822,Accounting & General Services (Dept) / Administrative Services Office,FMS - Financial Management System (Operational),,,,,,,2018-01-02,,2021-01-01
+0828fdd0-6458-4070-bd0f-c4a32a7dee61,Attorney General (Dept) / Hawaii Criminal Justice Data Center,HIJIS Portal,,,,,,,2016-01-01,,2021-01-01
+1beac0d0-34b9-47f0-9c73-71ae3f2b8b8b,Accounting & General Services (Dept) / Administrative Services Office,Journal Voucher System (Operational),,,,,,,2018-01-02,,2021-01-01
+2350c45b-07f6-4956-949c-3073ee09c59d,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Juvenile Justice Information System - Phase 2 Implementation,Juvenile Justice information System (JJIS),,significantBusinessBenefit,moderateProjectRisk,,,2017-11-01,,2021-01-01
+aea3ef5d-507a-46a1-8b48-8b899f7e2560,Commerce & Consumer Affairs (Dept) / ISCO,Migration of custom Lotus Notes Applications,,,,,,,2017-01-01,,2021-01-01
+13fee528-1a94-4209-a8aa-6e669c56d0de,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Migration to GPC,,,,,,,2016-01-01,,2021-01-01
+7b5e7621-858e-4cc8-a067-76bbb60ec84a,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Open Justice Broker (OJB),,,,,,,2016-01-01,,2021-01-01
+4da84ca8-f14e-4a81-a54d-b6b9d653a231,Accounting & General Services (Dept),Petty Cash System (Operational),,,,,,,2018-01-02,,2021-01-01
+b0e51a73-716c-4264-b4d9-326336cc0b4a,Accounting & General Services (Dept) / Public Works Division,Project Tracking System (Operational),,,,,,,2018-01-02,,2021-01-01
+9758a993-0eda-48f7-bbd1-04262d110c26,Accounting & General Services (Dept),Puchase Order System (Operational),,,,,,,2018-01-02,,2021-01-01
+5177f0df-3616-4e06-a8ad-c1f19adac5a0,Accounting & General Services (Dept) / Central Services Division,Work Order Request System (Operational),,,,,,,2018-01-02,,2021-01-01
+dd15ac37-fdad-4455-89ee-9a913603ff53,Attorney General (Dept) / Hawaii Criminal Justice Data Center,CJIS-Hawaii,,,,,,,2016-01-01,,2021-01-02
+cc456ac6-ef84-428b-93a2-7435c0c529a8,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Hardware Refresh,,,,,,,2017-07-01,,2021-01-02
+505602d7-5e64-4e11-9d02-2d1ced9f4eed,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Open Fox,OpenFox System,,,,,,2016-01-01,,2021-01-02
+d7d55dc6-e960-45d9-909a-6f4d1a4a574f,Attorney General (Dept) / Hawaii Criminal Justice Data Center,HelpDesk,,,,,,,2016-01-03,,2021-01-04
+7de36f60-4b94-4180-9667-68f0af7d5526,Transportation (Dept) / Airports Division,WINGS Enhancements and Maintenance,,green,,,,,2018-02-02,,2021-02-01
+baa1c624-f1b0-4b28-a4f6-9dab37a2e77b,Health (Dept) / Administrative Services Office,DOH ET Window 7 to Window 10 Upgrades,DOH End User Device and Desktop Software Support Services,,significantBusinessBenefit,moderateProjectRisk,,,2020-07-01,,2021-02-26
+b59bc9d6-f3d5-4103-98aa-42140fa2f644,Transportation (Dept) / Airports Division,Noise Monitoring Maintenance (FY20),AIR ANOMS,,,,,,2020-03-01,,2021-02-28
+b8dde108-4ae4-4980-83dd-ce18dacfa429,Human Resources Development (Dept) / Employee Staffing Division,NeoGov Applicant Tracking System - April 2020 to March 2021,NeoGov,,,,,,2020-04-01,,2021-03-31
+69c9e0fd-1976-4ff8-bc8d-a22bad667cc9,Transportation (Dept) / Airports Division,Misc Landing Fee Collections,,,,,,,2020-04-07,,2021-04-07
+684dc51a-790b-4d05-a9f1-0a893e33326c,"Budget & Finance (Dept) / Budget, Program Planning and Management Division",BUF - OPD - Phone System Upgrade,,,,,,,2021-01-02,,2021-04-12
+ceb9e7b2-14d3-4cf1-a465-7cbab6600bb7,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),Switch replacements Statewide FY21,,green,,,,,2020-09-01,,2021-04-30
+e3bfc9a1-4560-405f-af2d-22c997c4a99f,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),FY21-Computer/monitor refresh,,,,,,,2020-08-14,,2021-05-28
+0c268696-0d79-4747-bd8e-30ce896b59b4,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),FY21-Mobile computing,,,,,,,2020-08-03,,2021-05-28
+5d897ed5-7002-4f7d-ab4b-2d24cc2d5fa7,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),FY21-Video Conferencing Equipment,,,,,,,2020-08-03,,2021-05-28
+c18e15a5-724e-4563-9f47-f23b94150f3e,Hawaiian Home Lands (Dept) / Fiscal Office (FO),Oracle Financials - Licensing FY21,DHHL-Oracle EBusiness Suite R12,green,,,,,2020-06-01,,2021-05-31
+c95bd59f-9e35-412b-8c71-fedf7abdb563,Defense (Dept) / Hawaii Emergency Management Agency,EMA:  EOC IT Systems Resiliency,WebEOC,red,largeBusinessBenefit,,,,2018-01-01,,2021-06-01
+f9242a39-f33e-4cf2-ab24-7199376f89a5,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),FY21-Printer replacements,,,,,,,2020-08-15,,2021-06-10
+a4605222-5588-4ce8-a890-2a7c24cd5a5e,Transportation (Dept) / Airports Division,AIR Engineering Project Tracking Subscription FY20,AIR Engineering Project Tracking,,,,,,2020-06-14,,2021-06-13
+b3c935ba-b0d1-4dc5-9c00-61c1280c6459,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),FY21-Maintenance of Shared IT Equipment/Software,,,,,,,2020-07-01,,2021-06-14
+caf91110-46e6-428c-a366-45f6ebf8ccba,Human Services (Dept) / Benefits Employment and Support Services Division,BES IT Modernization,Benefits Eligibility System (BES),,significantBusinessBenefit,severeProjectRisk,,,2018-06-20,,2021-06-19
+f41534f8-8650-40a9-9a66-e33c658c3edd,Human Services (Dept) / Med-QUEST Division,MQD KOLEA Application Support (M&O),KOLEA,,significantBusinessBenefit,moderateProjectRisk,,,2018-06-20,,2021-06-19
+68c8be4d-9a5d-40ef-8748-f2b23c037fc2,Taxation (Dept),Annual Hardware & Software,,,,,,,2019-07-01,,2021-06-20
+78b34b5f-1b84-45e9-a7d7-9d8d4916ebba,Transportation (Dept) / Airports Division,Airports Management Information Systems for Operations,,,,,,,2018-10-02,,2021-06-28
+80fe861a-14fe-4d1d-90bb-780da4607818,Human Services (Dept) / Med-QUEST Division,904AA-07 Contract for services to assist Program Management Office PMO,,,,,,,2019-07-01,,2021-06-30
+1edd99ac-7cc2-4a7d-b6f3-604e9cd64225,Transportation (Dept) / Airports Division,Additional IT Maintenance,,,,,,,2019-07-01,,2021-06-30
+0949478f-82dc-43a5-b1be-ffccad4a857c,Budget & Finance (Dept) / Employer-Union Health Trust Fund,"BUF - EUTF - Database system License, Maintenance, Upgrades",BUF - EUTF - Health Benefits Administration System (BAS),,largeBusinessBenefit,lowProjectRisk,,,2017-05-01,,2021-06-30
+8f22d9eb-57db-45c5-a9bd-0f3960ab1cda,Land & Natural Resources (Dept) / Bureau of Conveyances,Bureau Land Records Management System,Bureau of Conveyances Land Records Management System,,,,,,2019-07-01,,2021-06-30
+fd2b65cb-8d4c-4d97-8a3a-6c34756c36b7,"Business, Economic Dev & Tourism (Dept) / Office of Planning",Computer Replacement - FY 20-21,,,,,,,2020-07-01,,2021-06-30
+b8e62789-a9ee-4700-8a90-bc17fa47ff3d,"Business, Economic Dev & Tourism (Dept) / Business Development & Support Division",DIR-Infrastructure Maintenance - FY20 to FY21,,,,,,,2020-07-01,,2021-06-30
+b7eb5fef-1a82-42d3-89b8-e4942147ba1e,"Business, Economic Dev & Tourism (Dept) / Business Development & Support Division",DIR-Server Maintenance - FY20 to FY21,,,,,,,2020-07-01,,2021-06-30
+1363e336-0b24-45e9-983b-c079db6c8822,Transportation (Dept) / Airports Division,Emergency Notifications FY20,AIR Everbridge Emergency Notification,,,,,,2020-07-01,,2021-06-30
+5c210d57-77fc-408c-8dac-976126d48538,"Business, Economic Dev & Tourism (Dept) / Foreign Trade Zone Division",FTZ Desktop PC Update,,,,,,,2019-07-01,,2021-06-30
+2be79f7d-2a99-4456-8600-8fa6e91232f7,"Business, Economic Dev & Tourism (Dept) / Office of Planning","GIS Technical Consulting Services - FY 19-20, FY 20-21",,,,,,,2019-10-01,,2021-06-30
+4845d094-8dfe-45d8-8519-267ef6d83845,Human Resources Development (Dept) / Information Systems Office,HRMS Support Renewal FY21,HiMod PeopleSoft HRMS,,,,2020-03-01,,2020-07-01,,2021-06-30
+6a842ecb-e48f-483c-b9e9-757ead08d7b5,Land & Natural Resources (Dept) / Land Division (LAND),Land Division State Land Information Management System 2.0,State Land Information Management  System 2.0 (Voyager),,,,,,2017-07-01,,2021-06-30
+b6ce8d42-377d-4640-8b82-4bced74575e2,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),"Legacy APPX applications (Applicant/Lessee, Recordation, Mortgage Loan) -  Licensing FY21",Legacy APPX;Legacy APPX / Applicant/Lessee;Legacy APPX / Mortgage Loan;Legacy APPX / Recordation,green,marginalBusinessBenefit,,,,2020-07-01,,2021-06-30
+5a423c90-4245-49d1-9c68-42027a1781c4,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),Network Consulting/Integration Services FY21,,,,,,,2020-07-01,,2021-06-30
+3d9392f0-3be8-4036-ae75-ab2f3fac41c7,Transportation (Dept) / Harbors Division,Port Hawaii Phase 2,Port Hawaii Information Management System (PHIMS) Modernization,,,,,,2020-06-30,,2021-06-30
+bbfca261-62c4-49bd-8f31-d516980c7575,Transportation (Dept) / Admin Division,ServiceNow (ITSM / SAM Pro / Security Ops),,,largeBusinessBenefit,lowProjectRisk,2020-04-01,,2020-07-01,,2021-06-30
+c570c8b4-d80c-4cd5-bb58-ea0f9b27652c,"Business, Economic Dev & Tourism (Dept) / Hawaii State Energy Office",Strategic Communications and Marketing Support Services,,,,,2020-08-25,,,,2021-06-30
+9c977164-9d64-4753-ac6e-5ffe0b16fe9d,"Business, Economic Dev & Tourism (Dept) / Business Development & Support Division",DIR - PC Replacement/Refresh - FY20 to FY21,,,,,,,2020-07-01,,2021-07-01
+2670a6b0-ca21-4610-a1b2-a516d9641ca9,Human Services (Dept) / Benefits Employment and Support Services Division,"HAWI Enhancement, Maintenance and Operation",HAWI Legacy Benefits Eligibility System,,,,,,2017-07-02,,2021-07-01
+b7507013-ada8-4f19-8f6f-b370839b70fc,Public Safety (Dept) / Administration Division (PSD),Health Care Cloud Service,,,largeBusinessBenefit,moderateProjectRisk,,,2019-07-02,,2021-07-01
+9ab2554c-b194-4159-a358-a55214f6e84f,Human Services (Dept) / Med-QUEST Division,HMS902IA-02 Funding for DHS Enterprise System Maintenance and Operations (M&O),KOLEA,,,,,,2019-07-02,,2021-07-01
+91fa9cf7-70ae-47b9-b579-73bc1910cb21,Human Services (Dept) / Office of Information Technology,HMS904AA-02 Funds for DHS Information Security and Privacy Compliance - Maintenance for Security Software,,,,,,,2019-07-02,,2021-07-01
+745bfa20-bd72-423d-98b7-34de02082d62,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Juvenile Justice Information System Maintenance and Support FY21,Juvenile Justice information System (JJIS),,largeBusinessBenefit,highProjectRisk,,,2020-07-01,,2021-07-01
+1037f788-eb57-4fb7-b17b-2360dadeafa6,Land & Natural Resources (Dept) / Forestry and Wildlife (DOFAW),Forestry WebGIS Services,,,,,,,2019-08-06,,2021-07-06
+3e1cbd9f-5c05-492e-88cd-ee5b522ed45c,Taxation (Dept) / Information Technology Services,TSM Post Warranty (FY21),GenTax Integrated Tax Processing Application 11.0,,,,,,2020-07-15,,2021-07-15
+13228186-aae9-4057-bdf7-fa5c1a4cb9da,Accounting & General Services (Dept) / Archives Division,Digital Archives,,,,,,,2017-06-18,,2021-07-27
+78627b06-409c-469d-b848-7241a8c0061f,Budget & Finance (Dept) / Administrative and Research Office,BUF - ARO - Workstation Replacement 2021,,,largeBusinessBenefit,lowProjectRisk,2021-01-01,2021-05-04,2021-07-01,2021-07-30,2021-07-30
+db71f06a-e88c-4fcc-a66a-9b6eadac33ab,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Juvenile Justice Information System GPC Migration - Prod Environment,Juvenile Justice information System (JJIS),,largeBusinessBenefit,highProjectRisk,,,2020-07-01,,2021-07-30
+b27b687c-6674-4241-85d6-e7167625e406,Hawaiian Home Lands (Dept),Enterprise Content Management System Updates (Imaging),ApplicationXtender Web Access,green,largeBusinessBenefit,moderateProjectRisk,,,2017-10-15,,2021-07-31
+9feade7d-79c1-4e9e-937b-5a06f43318de,Transportation (Dept) / Airports Division,AIRMIS21  Maintenance,AIR AIRMIS21;AIR-OM Materials and Supplies Inventory System,,significantBusinessBenefit,highProjectRisk,2018-08-29,,,,2021-08-13
+feb755d8-58f4-44f6-905e-8e729632b42c,Transportation (Dept) / Airports Division,AIRMIS21 Oracle Migration and Maintenance,,,,,2018-08-29,,,,2021-08-13
+93a6de1e-0a79-4be9-ac77-351fdc5b70a7,Budget & Finance (Dept) / Employee Retirement System,BUF - ERS - Document Management & CRM system - NF,,,,,,,2019-10-14,,2021-08-13
+ee1e72fd-d769-4e80-99d5-1373a3e62d30,Transportation (Dept) / Airports Division,AIRFMIS Professional Support Services,AIR AIRFAMIS,,,,,,2020-09-01,,2021-08-31
+ecab6cd9-1259-49b6-a122-5f4d811791c2,Human Services (Dept) / Benefits Employment and Support Services Division,Business Process Re-Engineering consultation and cloud-based task tracking service,,,,,,,2018-09-01,,2021-08-31
+deaa30c1-b6b8-497d-9db1-7e6f8e068747,Budget & Finance (Dept) / Employee Retirement System,BUF - ERS - Service Credit Purchases Legislation,,,,,,,2019-09-17,,2021-09-06
+af020cf2-2a63-44b9-a36d-4b98adab3066,Transportation (Dept) / Airports Division,Fleet Tracking System,,,,,,,2020-09-08,,2021-09-08
+b9164924-dd14-45ef-b2a8-d7beb07352e7,Budget & Finance (Dept) / Employer-Union Health Trust Fund,BUF - EUTF - Replacement of Health Benefits Administration System,BUF - EUTF - Health Benefits Administration System (BAS) (Upcoming),,significantBusinessBenefit,highProjectRisk,,,2019-07-02,,2021-09-29
+977209ce-0187-4ac1-9b9d-d9e58c8fed4e,Human Services (Dept) / Division of Vocational Rehabilitation,Aware-Akamai Phase 2 - Contract Module,Vocational Rehabilitation,,,,,,2020-10-01,,2021-09-30
+e80f25fd-285b-49d4-895f-2b94068f9b3c,Human Services (Dept),Support & Maintenance: Case Expert Software System,CaseExpert,green,significantBusinessBenefit,lowProjectRisk,2020-06-15,,2020-10-01,,2021-09-30
+2178b6a0-3bf1-44ef-b1ec-51f6b5263fa1,Health (Dept) / Behavioral Health Administration,DOH BH HI-WITS Hosting and System Maintenance Support,DOH Alcohol Drug Abuse Management Information System,,largeBusinessBenefit,moderateProjectRisk,,,2020-10-02,,2021-10-01
+5b6d4d5f-4e19-45f7-917b-c4e2332d7f82,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),Replace Storage system/VM hosts,,,,,,,2021-08-02,,2021-10-29
+2b499969-6364-45ab-973d-506e79eb3f2a,Hawaiian Home Lands (Dept) / Homestead Services Division,Water billing system - Licensing/Support FY21,Utility Star Gold Version 9.0,green,,,,,2020-11-14,,2021-11-13
+c528ea25-1a0f-47e8-ab77-72f438a92a1a,Land & Natural Resources (Dept) / Historic Preservation Division (SHPD),Historic Preservation Digitization of Records,,,,,,,2020-07-01,,2021-12-03
+cadde4cd-1b99-4d13-a0dc-0b212cf3780e,Defense (Dept) / Chief Information Officer,Diamond Head Fiber Optic Cabling,,yellow,significantBusinessBenefit,severeProjectRisk,2017-07-01,,2019-10-01,,2021-12-31
+a014e7ee-60ad-43c6-a7f0-d3bcd262449c,Commerce & Consumer Affairs (Dept) / Insurance Division,HIDS Replacement,,,,,,,2019-01-01,,2021-12-31
+727c386a-20e8-4d5a-96f4-e000c9b15e9a,Labor and Industrial Relations (Dept) / Wage Standards Division,Wage Standards Division Information Management System (WSDIMS),Certificate of Age Registration System (CARS);Wage Standards Division Information Management System (WSDIMS),,,,2019-01-01,,,,2021-12-31
+f435912d-1093-4607-92b1-c5a66bdcffb4,Budget & Finance (Dept) / Office of the Public Defender,BUF - OPD - Case and Document Management System,BUF - OPD - Legal Case Management,,significantBusinessBenefit,moderateProjectRisk,,,2020-01-02,2020-06-30,2022-01-01
+a2ee2ece-b7bf-4e88-b791-7c9995c47541,Health (Dept) / Behavioral Health Administration,DOH Case Management System for All Divisions in Behavioral Health Administration,DOH Adult Mental Health Management Information System;DOH Alcohol Drug Abuse Management Information System;DOH Child Adolescent Mental Health Information System;DOH Developmental Disabled Client Services Tracking,,significantBusinessBenefit,highProjectRisk,,,2018-01-02,,2022-01-01
+1813da83-4948-4ec5-9cc6-93c4e8212bf8,Human Services (Dept) / Med-QUEST Division,KOLEA Enterprise Solutions Integrator (ESI),KOLEA,,littleBusinessBenefit,moderateProjectRisk,,,2018-01-02,,2022-01-01
+3bf2390a-6302-4c23-a61b-ecb0162061eb,Transportation (Dept) / Airports Division,Enhance and Maintain Point of Sale,,,,,,,2021-02-01,,2022-02-01
+1e07fc90-d2c2-4c70-b9fb-57fc41e28a15,Transportation (Dept) / Airports Division,Enhance and maintain website,,,,,,,2021-02-01,,2022-02-01
+06921d45-5583-4532-ad63-b46794a138dc,Transportation (Dept) / Airports Division,Pavement Management,,,,,,,2021-02-09,,2022-02-09
+a454eedf-7c5c-4c19-af06-b6a5b531c3c2,Budget & Finance (Dept) / Employer-Union Health Trust Fund,BUF - EUTF - Project Management Services for new Benefits Administration System project,BUF - EUTF - Health Benefits Administration System (BAS) (Upcoming),,significantBusinessBenefit,highProjectRisk,,,2020-03-01,,2022-03-01
+ee953d72-2802-46ba-9bbd-e0b554b6320c,Human Services (Dept) / Benefits Employment and Support Services Division,"HANA Enhancement, Maintenance and Operations",HANA,,,,,,2019-03-07,,2022-03-06
+a88c2837-90df-488a-b70c-b4c4bfbc06ff,Labor and Industrial Relations (Dept) / Disability Compensation Division,Disability Compensation Modernization Project (eCMS),eCMS,yellow,significantBusinessBenefit,severeProjectRisk,,,2015-05-01,,2022-04-29
+33de6fca-f9ca-4ebe-89f3-544c37f34d97,Labor and Industrial Relations (Dept) / Workforce Development Division,IV&V - Disability Compensation Modernization Project (eCMS),eCMS,green,,highProjectRisk,,,2018-09-18,,2022-05-10
+0b89a5c2-6742-4c3f-bc22-eaa58911c8c4,Defense (Dept) / State Office of Homeland Security,OHS:  Relocation of the Office of Homeland Security and the Hawaii State Fusion Center to Ft. Ruger Bldg. 306A,,green,significantBusinessBenefit,,,,2018-07-01,,2022-05-25
+653314f5-608b-4fb7-bb10-ee206f371e6a,Transportation (Dept) / Harbors Division,AMS Software license and maintenance support FY18 - FY20,DOTH - Asset Management System (AMS),green,significantBusinessBenefit,moderateProjectRisk,2018-02-01,2018-04-02,2019-06-04,,2022-05-29
+1a304768-5261-4636-983d-d1df705355a5,Transportation (Dept) / Airports Division,AIRFMIS Oracle subscription renewal FY20-FY22,AIR AIRFAMIS,,,,,,2020-06-01,,2022-05-31
+c5c9fa4f-278f-4978-8c47-aee700560675,Human Services (Dept) / Office of Information Technology,DHS Enterprise Compliance and Security,KOLEA,,,,,,2017-07-01,,2022-06-30
+53758307-6538-4a1b-b15a-1730784ef41f,Human Services (Dept) / Med-QUEST Division,DHS Enterprise Platform Software License Subscription and Support Renewals,KOLEA,,,,,,2017-07-01,,2022-06-30
+362d87a5-34b5-4eb7-b5e7-90d4df6c7f68,Human Services (Dept) / Office of Information Technology,DHS Software License Subscription and Support Renewals,KOLEA,,,,,,2017-07-01,,2022-06-30
+5987687d-bfd2-4219-9e81-9be23f9ebe9c,Agriculture (Dept) / Administrative Services Office,Hardware and Software Maintenance/ Replacement OEM,,green,largeBusinessBenefit,,,,2017-07-01,,2022-06-30
+d275d084-addf-41ce-85a1-504cd90b3005,"Business, Economic Dev & Tourism (Dept) / Land Use Commission",LUC-Digitization Project,,,,,,,2017-07-01,,2022-06-30
+70ee19a4-aefa-4e41-8edc-6c7130f7f32e,Agriculture (Dept) / Department-Wide IT Support Services,NGN Connectivity Improvement,,,littleBusinessBenefit,,,,2017-07-01,,2022-06-30
+d014e8d6-f775-441a-9c92-44f898c5df46,Human Services (Dept) / Office of Information Technology,Refresh Network Infrastructure - Consulting Services,,,,,,,2017-07-01,,2022-06-30
+19bf9acb-9aa9-4080-9a57-a4c108adf5a3,Human Services (Dept) / Office of Information Technology,Refresh Network Infrastructure - DR Fortress Infrastructure,,,,,,,2017-07-01,,2022-06-30
+7a9a7caf-efc5-4ea8-9786-38f307c3c263,Human Services (Dept) / Office of Information Technology,Refresh Network Infrastructure - LB Data Center,,,,,,,2017-07-01,,2022-06-30
+94070792-68d8-4822-8e51-a1fc090b5568,Human Services (Dept) / Office of Information Technology,Refresh Network Infrastructure - Network Security,,,,,,,2017-07-01,,2022-06-30
+5c1d12cf-afb7-4d2a-b7d9-1e1f8a472b2e,Human Services (Dept) / Office of Information Technology,Refresh Network Infrastructure - VOIP,,,,,,,2017-07-01,,2022-06-30
+4b481889-25a2-4384-ade0-03c41460a65b,Human Services (Dept) / Office of Information Technology,Refresh Unit Infrastructure/Desktops,,,largeBusinessBenefit,lowProjectRisk,,,2017-07-01,,2022-06-30
+a93696c4-177a-44da-93d8-5a3e46aa8d72,Accounting & General Services (Dept),State Asset Management System (SBAM),,,,,,,2017-07-01,,2022-06-30
+ce3aa4ed-4384-4382-9351-6e08cb90c3df,Human Services (Dept) / Social Services Division,CPSS Operations and Maintenance,Child Protective Services (CPSS) Case Management System,,significantBusinessBenefit,lowProjectRisk,,,2017-07-02,,2022-07-01
+164c2dd5-dc83-454f-8706-54ed9ab8fc38,Health (Dept) / Behavioral Health Administration,DOH BH Avatar Maintenance Support,DOH Adult Mental Health Management Information System,,largeBusinessBenefit,moderateProjectRisk,,,2018-07-02,,2022-07-01
+c4b01cb2-730e-437f-89c4-8eb5d1d549a6,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Juvenile Justice Information System Maintenance and Support FY22,Juvenile Justice information System (JJIS),,largeBusinessBenefit,highProjectRisk,,,2021-07-01,,2022-07-01
+0985a222-8041-4eb7-946c-e8f5e7afe77c,Taxation (Dept) / Information Technology Services,TSM Post Warranty (FY22),GenTax Integrated Tax Processing Application 11.0,,,,,,2021-07-15,,2022-07-15
+aa6b275d-d40d-48b5-8a8e-737adddc2f4f,Budget & Finance (Dept) / Administrative and Research Office,BUF - ARO - Workstation Replacement 2022,,,largeBusinessBenefit,lowProjectRisk,2022-01-03,2022-05-02,2022-07-01,2022-07-29,2022-07-29
+a8dfe59d-ca3a-4da2-b9ca-c353ad1d4c15,Human Services (Dept) / Social Services Division,SSD IT Modernization Project,SSD IT Modernization,,significantBusinessBenefit,severeProjectRisk,,,2018-09-01,,2022-08-31
+d31fd766-0e8f-4451-b2cc-6dba5e822bd8,Human Services (Dept) / Med-QUEST Division,Information Security Assessment,,,,,,,2018-03-01,,2022-09-06
+6dd89ed3-42b5-44dd-a337-6448786e089d,Health (Dept) / Behavioral Health Administration,DOH BH Implement RAPID computerized tomography perfusion software,DOH Developmental Disabled Client Services Tracking,,largeBusinessBenefit,moderateProjectRisk,,,2019-10-01,,2022-09-30
+0ad40d41-4373-4a0a-9025-0d927f96cc53,Defense (Dept) / Hawaii Emergency Management Agency,O&M EMA,,,,,,,2017-07-02,,2022-12-23
+f3576118-7644-4b5d-afec-f8c903b08125,Defense (Dept) / Hawaii Air National Guard,O&M HIANG,,,,,,,2017-07-02,,2022-12-23
+6add38e7-d583-4d1a-9856-8011881edc5c,Defense (Dept) / Hawaii Army National Guard,O&M HIARNG,,,,,,,2017-07-02,,2022-12-23
+e4d5245e-3209-4229-9d6c-c3cb64f507f0,Defense (Dept) / State Office of Homeland Security,O&M OHS,,,,,,,2017-07-02,,2022-12-23
+919f9431-2af2-4db4-a195-e654f8499a51,Defense (Dept) / State Office of Veteran Services,O&M OVS,,,,,,,2017-07-02,,2022-12-23
+54998b5a-6524-4b7b-b854-a05363d7ac42,Defense (Dept) / Hawaii Youth Challenge Academy,O&M YCA,,,,,,,2017-07-02,,2022-12-23
+ad65aa44-c59e-4d3e-b04f-6e0c10e6a8ad,Transportation (Dept) / Highways Division,State of Hawaii Advanced Crash Analysis (SHACA),SHACA,green,largeBusinessBenefit,moderateProjectRisk,,,2017-08-01,,2022-12-31
+0e08d072-3d3d-40cb-96bc-64f0234643ea,Transportation (Dept) / Highways Division,Highways Asset Management System  (socrata),Asset Management System,,significantBusinessBenefit,moderateProjectRisk,,,2018-02-01,,2023-01-31
+3ec30393-9327-46d0-b808-4f636bed14d6,Human Services (Dept) / Office of Information Technology,IBM Software Licenses,HAWI Legacy Benefits Eligibility System,,largeBusinessBenefit,lowProjectRisk,,,2018-04-01,,2023-03-31
+4de651dd-1838-4dc0-935c-c5b8bea475a8,Health (Dept) / Health Resources Administration,DOH HR Trauma Patient Registry Lic. & Maint Support,Trauma Registry,,largeBusinessBenefit,moderateProjectRisk,,,2017-07-03,,2023-06-30
+a255ce2a-2429-4584-9bfd-53b7ae8a8cfc,"Business, Economic Dev & Tourism (Dept) / Foreign Trade Zone Division",FTZ-Network System Maintenance,,,,,,,2018-07-01,,2023-06-30
+62ab2f8f-f1c0-4739-8ac5-cb085da81dd7,Health (Dept) / Behavioral Health Administration,DOH BH AVATAR Hosting SaaS,DOH Adult Mental Health Management Information System,,largeBusinessBenefit,moderateProjectRisk,,,2018-07-02,,2023-07-01
+1f366238-5793-47b6-9d87-69ad035f25fb,Health (Dept) / Environmental Health Administration,DOH EHS Food Safety Inspection and Complaint Tracking System,DOH Environmental Health Services Systems,,significantBusinessBenefit,moderateProjectRisk,,,2018-07-02,,2023-07-01
+f76cb3ee-8f18-48c1-83a4-31a07d781b55,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Juvenile Justice Information System Maintenance and Support FY23,Juvenile Justice information System (JJIS),,largeBusinessBenefit,highProjectRisk,,,2022-07-01,,2023-07-01
+2225719d-c143-4477-983f-5e4fdf6540d3,Commerce & Consumer Affairs (Dept) / Public Utilities Commission (PUC),PUC - Document Management System (DMS) RFP to Replace/Enhance,PUC-Case & Document Management System TBD,,,,,,2021-07-01,,2023-07-01
+5d6775bc-5e61-455a-8af3-ab39a10251b0,Public Safety (Dept) / Corrections Division,Corrections - Time & Attendance – Adult Correction Officer Scheduling,,,significantBusinessBenefit,,,,2018-08-01,,2023-07-11
+9e5ccde3-c165-47e0-be36-a50d548e86e0,Taxation (Dept) / Information Technology Services,TSM Post Warranty (FY23),GenTax Integrated Tax Processing Application 11.0,,,,,,2022-07-15,,2023-07-15
+409502ad-5840-41d7-a934-fe1f3f88c55e,Health (Dept) / Health Resources Administration,DOH HR eWIC Electronic Benefit Transfer System,"Women, Infant Child (WIC) Food vouchering system (HiWIC)",,significantBusinessBenefit,moderateProjectRisk,,,2017-08-01,,2023-07-31
+3c9fb023-8081-4a86-8b99-1314ed9b0872,Health (Dept) / Health Resources Administration,DOH HR Hawaii Immunization Registry Technical Support,DOH Hawaii Immunization Registry (HIR),,significantBusinessBenefit,moderateProjectRisk,,,2017-10-02,,2023-10-01
+20cf4b82-96e9-4b2c-9bae-f114917d029e,"Business, Economic Dev & Tourism (Dept) / Hawaii Housing Finance & Development Corporation",HHFDC-VoIP Phone System Upgrade,,,,,,,2017-06-01,,2023-12-17
+9a1fb04d-ce7f-4563-9cb5-add137019de6,"Business, Economic Dev & Tourism (Dept) / Hawaii Technology Development Corporation",HTDC_Hilo Multipurpose Processing Facility network infrastructure installation and maintenance,,,largeBusinessBenefit,highProjectRisk,2018-01-01,,,,2023-12-31
+75c1d8b1-2459-4bd5-8789-5be758c2bf35,Taxation (Dept) / Information Technology Services,TSM Post Warranty (FY24),GenTax Integrated Tax Processing Application 11.0,,,,,,2023-07-15,,2024-07-14
+d32e5789-f916-403c-9322-cac7d480db92,Defense (Dept) / Hawaii Emergency Management Agency,EMA:  Emergency Communications Systems Infrastructure,,green,significantBusinessBenefit,,,,2018-10-10,,2024-10-08
+98f55578-6567-4b48-bfec-4651ec399a69,Defense (Dept) / Chief Information Officer,IT Help Desk Specialist,,,,,,,2018-10-10,,2024-10-08
+06408365-e844-47f9-9a85-081d0826fbb4,Defense (Dept) / State Office of Homeland Security,OHS:  Cyber Safety Community Outreach,OHS - Office of Homeland Security - Website,,,,2018-10-10,,,,2024-10-08
+61edb751-71ac-4dbc-aa9c-590016654122,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),Replace Legacy APPX applications,,,,,,,2022-01-06,,2024-12-06
+7aa641c9-e4a8-45bf-b472-0040db1d9838,Human Services (Dept) / Benefits Employment and Support Services Division,AIS Project,Child Protective Services (CPSS) Case Management System;HANA,green,littleBusinessBenefit,moderateProjectRisk,2019-10-31,2020-01-02,,,2024-12-31
+cd4c2736-8934-4173-afb5-4038289b8936,Attorney General (Dept) / Child Support Enforcement Agency,Disaster Recovery Equipment and Services - ETS Mainframe,,green,significantBusinessBenefit,severeProjectRisk,,,2020-02-03,,2024-12-31
+2aed45f3-a67e-4ac9-b267-1317f764d2ab,"Business, Economic Dev & Tourism (Dept) / Hawaii Technology Development Corporation",HTDC-Cube (MIC Replacement) network new infrastructure installation only,,,significantBusinessBenefit,moderateProjectRisk,2015-01-01,,,,2024-12-31
+a170be7c-6315-4dab-bd86-31935bb56101,Attorney General (Dept) / Child Support Enforcement Agency,KEIKI System - Modernization Project,KEIKI Modernization,,significantBusinessBenefit,severeProjectRisk,,,2021-09-01,,2025-01-31
+06f1c7d0-9668-43d5-8fbe-f7df74a7944e,Commerce & Consumer Affairs (Dept) / Public Utilities Commission (PUC),PUC - Document Management System Maintenance 2019-24,PUC-DMS,,,,,,2019-07-01,,2025-06-29
+8eb1022d-2581-4dc2-bf3f-a860ad0c1b84,Transportation (Dept) / Airports Division,AIR Voice Communication upgrades and maintenance - Kahului,,,,,,,2020-07-01,,2025-06-30
+d887e227-80eb-4da8-a3f2-13983bf943d4,Defense (Dept) / Hawaii Emergency Management Agency,EMA:  Statewide Inter-agency Emergency Communication System (VTC),,green,significantBusinessBenefit,moderateProjectRisk,,,2018-01-12,,2025-06-30
+e59115cb-d71e-44a9-bbd6-bf7c44b56708,Labor and Industrial Relations (Dept) / Workforce Development Council,HireNet Hawaii Maintenance FY2021,Workforce Management Information System (HireNet),,largeBusinessBenefit,moderateProjectRisk,,,2020-07-01,,2025-06-30
+c2a4361d-c358-4abd-ba52-72c4e71417ac,Taxation (Dept) / Information Technology Services,TSM Post Warranty (FY25),GenTax Integrated Tax Processing Application 11.0,,,,,,2024-07-15,,2025-07-15
+c345ecff-ce73-4bd8-a40f-ce5ea0d1b0ca,Transportation (Dept) / Highways Division,Engineering & Project Delivery Applications Annual Software Maintenance,,,,,,,2017-07-02,,2025-09-18
+d42f7b60-2a81-436e-9cfd-0b6600f54409,"Budget & Finance (Dept) / Budget, Program Planning and Management Division",BUF - BPPM - Electronic Workflow Conversion,,,significantBusinessBenefit,moderateProjectRisk,,,2024-01-02,,2026-01-02
+2b3d64ae-5b4b-434e-ab32-9da4714f072b,Health (Dept) / Health Resources Administration,DOH HR MEDICOM Infrastructure Relocation,DOH HI Emergency Medical Svc Info Management System (HEMIS),,littleBusinessBenefit,highProjectRisk,,,2017-12-02,,2026-08-07
+a92c853c-0c54-4819-a76d-fd8330893bd5,Health (Dept) / Health Resources Administration,DOH HR WIC Management Information System Hosting and Maint Support,"Women, Infant Child (WIC) Food vouchering system (HiWIC)",,significantBusinessBenefit,moderateProjectRisk,,,2022-07-02,,2032-06-30
+adc0d4dd-0557-4ba0-bee1-064db998de79,Public Safety (Dept) / Corrections Division,$Corrections - eClinical Works,,,largeBusinessBenefit,,,,2019-07-01,,
+87a79edf-900a-4688-b243-a222dec4d646,Public Safety (Dept) / Sheriff Division,$Sheriff Division - Records Management System,,,largeBusinessBenefit,,,,2017-10-21,,
+b6e2863a-a581-449a-bd91-9b7ac0240153,Transportation (Dept) / Airports Division,AIR Operations Identity Management System (IDMS) Implementation and Maintenance,AIR Operations Identity Management System,,largeBusinessBenefit,moderateProjectRisk,2020-06-01,,,,
+92ca5e2b-c2d6-42f9-af58-c862a8bedb6e,Transportation (Dept) / Airports Division,AIRFMIS maintenance FY21-FY23,AIR AIRFAMIS,,largeBusinessBenefit,moderateProjectRisk,2019-11-01,,2020-09-21,,
+2c0f7dd6-df2b-4421-b063-0c0298a2ebd6,Transportation (Dept) / Harbors Division,AMS & PLL License and Maintenance Support,DOTH - Asset Management System (AMS),,,,,,,,
+c41f4f51-e50d-495f-b0b2-bf9928a52914,Land & Natural Resources (Dept) / Aquatic Resources (DAR),Aquatic Resources Division,Aquatic Resources Geo-Referenced Database,,,,,,,,
+43f7d95f-53c9-447e-9cfa-da3bf6152ea0,Transportation (Dept) / Airports Division,ARMIS21 Oracle Migration and Maintenance,,,,,,,,,
+c13c9f3e-03a9-4bec-a97b-deab14a786e0,Commerce & Consumer Affairs (Dept) / Business Registration Division,BRIMS Replacement,BREG - Business Registration Information and Management System (BRIMS);BREG - Records Document Processing and Management System (RDPMS),,significantBusinessBenefit,highProjectRisk,,,2020-07-01,,
+604f7922-0056-40ee-8f41-d17c335879ba,Budget & Finance (Dept) / Employee Retirement System,BUF - ERS - Backfile Imaging - NF,,,,,,,,,
+7f9b21d2-a083-4117-b65f-ad27538ba78d,Budget & Finance (Dept) / Employee Retirement System,BUF - ERS - PIF Back File Import & Work Report Change,,,,lowProjectRisk,,,2017-05-01,,
+6838107d-8472-45bf-b28d-b617a92e146f,Budget & Finance (Dept) / Employer-Union Health Trust Fund,BUF - EUTF - Data Cleansing and Related Consultant Services,BUF - EUTF - Health Benefits Administration System (BAS) (Upcoming),,significantBusinessBenefit,highProjectRisk,2020-07-01,,2020-07-01,,
+f3ef80f9-d5c6-4d84-a9c9-7fa552400123,Budget & Finance (Dept) / Employer-Union Health Trust Fund,BUF - EUTF - IV&V - Replacement of Health Benefits Administration System,BUF - EUTF - Health Benefits Administration System (BAS) (Upcoming),,,,2019-11-01,2020-01-31,,,
+a61325ee-0b20-417b-8b22-21b335f49ddc,Budget & Finance (Dept) / Financial Administration Division,BUF - FAD - Treasury Investment Management System,,,largeBusinessBenefit,moderateProjectRisk,2020-07-01,2021-01-01,2021-04-01,,
+959ef284-b75d-4e5e-b21c-1f414acd8337,Defense (Dept) / Hawaii Emergency Management Agency,Business Recovery Center IT,,yellow,,,,,,,
+a91cda77-76f6-4633-8fc5-b9b4bb95da1c,Taxation (Dept),Cabling Upgrade,,,,,,,,,
+48d878da-1691-4e90-a5d9-7c97fb18678f,Transportation (Dept),Cloud Pilot: Database Service,,,,,,,,,
+a53355d8-c157-4dde-8a01-b53ac9238daf,Land & Natural Resources (Dept),Commission on Water Resource Management,Water Resource Information Management System,,,,,,,,
+00c31a72-8031-4a9e-8beb-179b5ec23df8,Hawaiian Home Lands (Dept) / Office of the Chairman (OCH),Contact Center (M&O) FY19,DHHL - Salesforce Contact Center;DHHL - Talkdesk Contact Center,,,,,,2019-06-17,,
+9aa6801e-f868-4e84-a10c-665afc7f043f,Hawaiian Home Lands (Dept) / Office of the Chairman (OCH),Contact Center (M&O) FY20,DHHL - Salesforce Contact Center;DHHL - Talkdesk Contact Center,,,,,,2019-06-17,,
+49e8afe0-70b5-4ce2-b517-defb9c0a357c,Public Safety (Dept) / Administration Division (PSD),Convert backlog G1 for HiPay,,yellow,significantBusinessBenefit,highProjectRisk,2019-11-01,,2020-06-30,,
+867ba059-1e3f-4370-841d-3ecf1cd6e73b,Defense (Dept) / Hawaii Emergency Management Agency,COVID-19 Ad Hoc Decision Support and Data Collection,,green,,,2020-04-07,,,,
+543bf4ad-27df-452c-ab92-d174a0066d70,Defense (Dept) / Hawaii Emergency Management Agency,COVID-19 Common Operating Picture Development and Deployment,,,,,,,,,
+8a45167a-f890-46e4-bede-1d351504a43c,Attorney General (Dept) / Crime Prevention & Justice Administration Division,CPJA Electronic Grants Management System,,,largeBusinessBenefit,highProjectRisk,2019-04-10,,,,
+17a8c30a-86a5-4138-875f-0e4d3d988dfe,Accounting & General Services (Dept) / Accounting Division,Datamart,,,,,,,,,
+6fce90c2-bab8-4ba9-9824-f816ac6f7a9e,Commerce & Consumer Affairs (Dept),DCCA Firewall and other Network Security,,,,,,2020-07-01,,,
+0c547984-6c87-4248-be0a-f9f3417b7378,Commerce & Consumer Affairs (Dept) / ISCO,DCCA FY21 Servers and Printers Refresh,,,,,,2020-07-01,,,
+a83a7dad-3c7d-479c-a426-abd043aef9d9,Taxation (Dept),Dell Storage expansion,,,,,,,,,
+d5a644a8-b4e3-4ede-b7f4-1f3050a30352,Education (Dept),DOE FMS Modernization,FMS Legacy DOE;FMS Modernization DOE,,significantBusinessBenefit,severeProjectRisk,,,,,
+4d037d01-85bd-4348-87e4-3d4756367989,Health (Dept) / Behavioral Health Administration,DOH BH Hawaii State Hospital LAN Upgrade,WAN LAN Network Environment Support,,largeBusinessBenefit,moderateProjectRisk,2020-05-01,,,,
+42d617db-4140-4c2e-b390-ae4f464aa917,Health (Dept) / Health Resources Administration,DOH DR TeleHealth Pilot Project,,,littleBusinessBenefit,lowProjectRisk,,,,,
+bdad6fff-4b76-40ac-9b65-8a4346f8dd08,Health (Dept) / Administrative Services Office,DOH HSH campus LAN upgrade,,,largeBusinessBenefit,highProjectRisk,,,,,
+ea55d2cf-ae2d-49cf-8062-a1b3cb925246,Attorney General (Dept) / Child Support Enforcement Agency,DSS System - Replacement Project,Decision Support System (DSS),,significantBusinessBenefit,highProjectRisk,2020-01-06,2020-06-01,2021-07-01,2026-12-31,
+c8932aff-c8cb-4b61-9d02-7db7e6f1ea18,Defense (Dept) / Chief Information Officer,Duplication/Migration of VMs to the states's GPC,,green,largeBusinessBenefit,,,,2016-09-01,,
+7e806857-a729-46f7-b76e-c56e6c7542e0,Transportation (Dept) / Airports Division,Emergency Notifications FY19,,,,,,,2019-03-02,2020-05-15,
+b2ac19ad-8802-4656-8f01-a8174cdb8bb3,Land & Natural Resources (Dept) / Engineering Division (ENG),Engineering National Flood Insurance Program,National Flood Insurance Program Flood Hazard Assessment Tool,,,,,,,,
+9ab9eaec-73e5-40af-b5a1-d1a5f55b5c19,Defense (Dept) / Hawaii Emergency Management Agency,Establishment of local read-only Domain Controller at Birkhimer EOC,,,,,,,,2019-07-01,
+ab7a0a06-1b94-456d-a68a-dd28c9ed5e55,"Business, Economic Dev & Tourism (Dept) / Hawaii Green Infrastructure Authority",FICS Commercial Loan Servicer,FICS Commercial Loan Servicer,,significantBusinessBenefit,lowProjectRisk,2020-03-11,2020-04-30,2020-05-29,,
+fd95223f-c627-4426-8f52-d045c8851c26,Accounting & General Services (Dept) / Public Works Division,FUTURE: Public Works Project Management System,,,,,,,,,
+4befa69a-9009-4e6d-a288-2373ba0020f8,Defense (Dept) / Hawaii Emergency Management Agency,HIEMA Distributed Antenna System,,,,,,,,,
+0dae6ca4-beeb-479d-8a45-4d01674ba6d4,Defense (Dept) / Joint Staff,HING: Amelioration of Physical Disasters,State Active Duty Personnel and Logistics,,largeBusinessBenefit,severeProjectRisk,2019-03-01,,,,
+47c5d90c-8b68-4d38-babe-f89029ebeaf1,Taxation (Dept) / Information Technology Services,HVP Replacement,,,,,,,,,
+26668f49-91b4-436e-bb13-b0676f51616b,Transportation (Dept) / Highways Division,HWYAC IV&V,HWYAC Replacement Financial System,,,,,,2019-08-01,,
+993d8210-b502-4e47-9f44-a7d12291d094,Transportation (Dept) / Highways Division,HWYAC Replacement,DOTH Maintenance Management System;HWYAC Legacy Financial System;HWYAC Replacement Financial System,green,significantBusinessBenefit,severeProjectRisk,2019-08-21,,,,
+13293c21-3ec4-477a-9fcb-be22c730dd3e,Taxation (Dept),IVR expansion,,,,,,,,,
+387f428c-ff52-40ef-9b79-72c9609dce6d,Hawaiian Home Lands (Dept),Kauai Office Relocation,,,,,,,,,
+26cbea43-05b9-4a4c-a0e9-7f1b07e25076,Commerce & Consumer Affairs (Dept) / Public Utilities Commission (PUC),LAN Files Servers - on prem,,,,,,,,,
+1b5ed7c4-b7af-446f-bd5b-9125339d4560,Enterprise Technology Services,LeanIX EA Tool Implementation,LeanIX,green,largeBusinessBenefit,moderateProjectRisk,2019-03-01,,2019-05-01,,
+66c31038-4f8b-47f1-816f-84558e848311,Enterprise Technology Services / IT Governance Branch,LeanIX Extended Configuration,LeanIX,,largeBusinessBenefit,lowProjectRisk,2019-10-01,,2020-03-01,,
+806876d3-af58-4292-bd61-5f1efbb6b7d3,Transportation (Dept),Lotus Notes App Migration to SharePoint,,,,,,,,,
+081717f9-36be-4446-aa06-deb5c9b7013c,Attorney General (Dept),Migrate AD to hawaii.local,,,,,,,,,
+dfbec13a-5c67-4279-bb12-9b86de05fb7f,Attorney General (Dept),Migrate to Cloud,,,,,,,,,
+5b466774-452b-4ab1-9f25-472af7833071,Taxation (Dept) / Information Technology Services,Network Redundancy Paths for Satellite Offices,,,,,,,,,
+add269c6-1215-4e21-9c49-24cc77a53e22,Attorney General (Dept),Network Refresh,,,,,,,,,
+cdb63eea-409c-4ee8-92cc-4c2a2834de88,Hawaiian Home Lands (Dept) / Fiscal Office (FO),Oracle Financials - Consulting/Support FY20 to FY23,DHHL-Oracle EBusiness Suite R12,green,largeBusinessBenefit,moderateProjectRisk,2019-09-26,,,,
+56712785-4a31-42c5-8c93-d8f1127f9dc2,Human Services (Dept) / Med-QUEST Division,Patience Diagnosis Grouping,,,largeBusinessBenefit,moderateProjectRisk,,,,,
+cc142082-c6b2-4ab2-91f0-0c892a573cb5,Attorney General (Dept),PC Refresh,,,,,,,,,
+5dd2aa45-33a2-4739-856b-5d9f929de059,Health (Dept) / Health Resources Administration,Re-engineer Vital Records Management Info System,,,,,,,,,
+16eb43f9-08ae-4b06-8c3b-120e04abfddc,Defense (Dept) / Administrative Support Office,State Active Duty Personnel and Logistics Implementation,State Active Duty Personnel and Logistics,green,significantBusinessBenefit,severeProjectRisk,2019-06-25,,,,
+2747ed6b-c9a2-4266-8c6e-5429055d10a0,Accounting & General Services (Dept) / Accounting Division,Statewide Financial Modernization,AIR AIRFAMIS;BUF - BPPM - Budget Request System/eAnalyt;BUF - BPPM - Budget Request System/eBuddi;BUF - BPPM - Budget Request System/eTitles;BUF - BPPM - Budget Request System/eVar;BUF - BPPM - Budget Request System/eXwalk;BUF - BPPM - Revenue System/eRev;BUF - BPPM - eBuddi;FAMIS Financial Accounting & Management Information System;HiMod Financial Management System (FMS),green,significantBusinessBenefit,highProjectRisk,2019-01-01,,,,
+408532e4-a3ae-4cd0-b59a-062f37e5e93d,Defense (Dept) / Administrative Support Office,Streamline data flow between Datamart and Departments's accounting database,,,largeBusinessBenefit,,,,,,
+da03c8ec-94a3-4304-92ce-00e8690a8c30,Taxation (Dept),Support maintenance,,,,,,,,,
+ffa05933-dbb4-4cf8-bf7b-a9a80bc000c1,Attorney General (Dept) / Hawaii Criminal Justice Data Center,System Enhancements,,,,,,,,,
+5323443c-8dc5-410c-935e-bb1cda813a9b,Attorney General (Dept) / Hawaii Criminal Justice Data Center,System Standardization Upgrade,,,,,,,,,
+6f81890b-776a-4293-ba2a-255e6ca5ca3c,Public Safety (Dept) / Administration Division (PSD),TSD Multimedia Presentation System,,,littleBusinessBenefit,lowProjectRisk,,2020-10-28,2020-12-01,,
+7a73eb62-9184-4bc7-a354-155620461e38,Transportation (Dept) / Airports Division,Upgrade and Maintain Radio Communications,,,,,,,,,
+b96f414a-4297-465e-b20b-bca07f85141d,Defense (Dept) / Hawaii Emergency Management Agency,WebEOC/Mailman duplication to the GPC,,,largeBusinessBenefit,,,,,,
+b3153c00-65e1-40da-8405-c605680eb244,Defense (Dept) / Hawaii Youth Challenge Academy,YCA: Distance Learning,,,largeBusinessBenefit,highProjectRisk,2020-05-22,,,,
