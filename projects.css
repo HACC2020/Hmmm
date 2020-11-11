@@ -1,0 +1,97 @@
+
+.background
+{
+  background-color:lightgray;
+}
+
+.header
+{
+  height:100px;
+  width:1496px;
+  margin-top:-8px;
+  margin-left:-8px;
+  padding-left:40px;
+  background-color:lightgray;
+}
+
+.button1
+{
+  height: 100px;
+  width: 307px;
+  text-align: center;
+  font-size: 24pt;
+  margin-left: -40px;
+  float:left;
+  background-color: teal;
+  color: white;
+}
+
+.button1:hover
+{
+  background-color: white;
+  color: teal;
+}
+
+.button
+{
+  height: 100px;
+  width: 307px;
+  text-align: center;
+  font-size: 24pt;
+  float:left;
+  background-color: teal;
+  color: white;
+}
+
+.button:hover
+{
+  background-color: white;
+  color: teal;
+}
+
+.buttonh
+{
+  height: 100px;
+  width: 308px;
+  text-align: center;
+  font-size: 24pt;
+  float:left;
+  background-color: white;
+  color: teal;
+}
+
+.sidebar
+{
+  height:1686px;
+  width: 307px;
+  float:left;
+  margin-top:20px;
+  margin-left:-8px;
+  background-color:gray;
+}
+
+.select
+{
+  height:100px;
+  width: 307px;
+  margin-top:-16px;
+  background-color:blue;
+  color:white;
+}
+
+.container
+{
+  height:686px; 
+  width:1200px;
+  float:left;
+  margin-top:20px;
+  margin-left:14px;
+  background-color: orange;
+}
+
+table, th, td
+{
+  color:black;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
