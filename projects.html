@@ -16,7 +16,7 @@
 
   </head>
 
-  <body class='background' onload='hide()'>
+  <body class='background ctscroll' onload='hide()'>
 
   <div id='header' class='header'>
     
@@ -26,7 +26,7 @@
 
 <a href='applications.html'><div class='button'><p>IT Applications</p></div></a>
 
-<a href='projects.html'><div class='buttonh'><p>IT Projects</p></div></a>
+<div class='buttonh'><p>IT Projects</p></div>
 
 <a href='visualizations.html'><div class='button'><p>Visualizations</p></div></a>
 
@@ -34,7 +34,7 @@
 
 <div class='sidebar'>
 
-<div class='select an' onclick='An()'><p>Agency Name</p></div>
+<div class='select an' id='selected' onclick='An()'><p>Agency Name</p></div>
 
 <div class='select pn' onclick='Pn()'><p>Project Name</p></div>
 
@@ -62,8 +62,87 @@
 
 <div class='container'>
 
-<a href='projectsAn.html'><div id='an'>Attorney General (Dept) / Crime Prevention & Justice Administration Division</div></a><a><div id='an'>Budget & Finance (Dept) / Employer-Union Health trust Fund</div></a><div id='an'>Hawaiian Home Lands (Dept) / Homestead Services Division</div><div id='an'>Attorney General (Dept) / Hawaii Criminal Justice Data Center</div><div id='an'>Health (Dept) / Health Resources Administration</div><div id='an'>Budget & Finance (Dept) / Employee Retirement System</div><div id='an'>Human Services (Dept) / Office of Information Technology</div><div id='an'>Defense (Dept) / Chief Information Officer</div><div id='an'>Transportation (Dept) / Admin Division</div><div id='an'>Transportation (Dept) / Airports Division</div><div id='an'>Human Services (Dept) / Office of Information Technology</div><div id='an'>Accounting & General Services (Dept) / Administrative Services Office</div><div id='an'></div>
-
+<a href='projectsAn.html'><div id='an'>Attorney General (Dept) / Crime Prevention & Justice Administration Division</div></a>
+<a><div id='an'>Budget & Finance (Dept) / Employer-Union Health trust Fund</div></a>
+<div id='an'>Hawaiian Home Lands (Dept) / Homestead Services Division</div>
+<div id='an'>Attorney General (Dept) / Hawaii Criminal Justice Data Center</div>
+<div id='an'>Health (Dept) / Health Resources Administration</div>
+<div id='an'>Budget & Finance (Dept) / Employee Retirement System</div>
+<div id='an'>Human Services (Dept) / Office of Information Technology</div>
+<div id='an'>Defense (Dept) / Chief Information Officer</div>
+<div id='an'>Transportation (Dept) / Admin Division</div>
+<div id='an'>Transportation (Dept) / Airports Division</div>
+<div id='an'>Accounting & General Services (Dept) / Administrative Services Office</div>
+<div id='an'>Commerce & Consumer Affairs (Dept) / Business Registration Division</div>
+<div id='an'>Human Services (Dept) / Benefits Employment and Support Services Division</div>
+<div id='an'>Attorney General (Dept) / Child Support Enforcement Agency</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Foreign trade Zone Division</div>
+<div id='an'>Accounting & General Services (Dept) / State Procurement Office</div>
+<div id='an'>Human Resources Development (Dept) / Information Systems Office</div>
+<div id='an'>Accounting & General Services (Dept)</div>
+<div id='an'>Accounting & General Services (Dept) / Central Services Division</div>
+<div id='an'>Accounting & General Services (Dept) / Automotive Management Division</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Office of Planning</div>
+<div id='an'>Accounting & General Services (Dept) / Public Works Division</div>
+<div id='an'>Defense (Dept) / Hawaii Youth Challenge Academy</div>
+<div id='an'>Accounting & General Services (Dept) / Accounting Division</div>
+<div id='an'>Transport (Dept) / Highways Division</div>
+<div id='an'>Commerce & Consumer Affairs (Dept) / ISCO</div>
+<div id='an'>Health (Dept) / Administrative Services Office</div>
+<div id='an'>Human Resources Development (Dept) / Employee Staffing Division</div>
+<div id='an'>Budget & Finance (Dept) / Budget Program Planning and Management Division</div>
+<div id='an'>Hawaiian Home Lands (Dept) / Administrative Services Office (ASO)</div>
+<div id='an'>Hawaiian Home Lands (Dept) / Fiscal Office (FO)</div>
+<div id='an'>Defense (Dept) / Hawaii Emergency Management Agency</div>
+<div id='an'>Human Services (Dept) / Med-QUEST Division</div>
+<div id='an'>Taxation (Dept)</div>
+<div id='an'>Land & Natural Resources (Dept) / Bureau of Conveyances</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Business Development & Support Division</div>
+<div id='an'>Land & Natural Resources (Dept) / Land Division (LAND)</div>
+<div id='an'>Transport (Dept) / Harbors Division</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Hawaii State Energy Office</div>
+<div id='an'>Public Safety (Dept) / Administration Division (PSD)</div>
+<div id='an'>Land & Natural Resources (Dept) / Forestry and Wildlife (DOFAW)</div>
+<div id='an'>Taxation (Dept) / Information Technology Services</div>
+<div id='an'>Accounting & General Services (Dept) / Archives Division</div>
+<div id='an'>Budget & Finance (Dept) / Administrative and Research Office</div>
+<div id='an'>Hawaiian Home Lands (Dept)</div>
+<div id='an'>Human Services (Dept) / Division of Vocational Rehabilitation</div>
+<div id='an'>Health (Dept) / Behavioral Health Administration</div>
+<div id='an'>Land & Natural Resources (Dept) / Historic Preservation Division (SHPD)</div>
+<div id='an'>Commerce & Consumer Affairs (Dept) / Insurance Division</div>
+<div id='an'>Labor and Industrial Relations (Dept) / Wage Standards Division</div>
+<div id='an'>Budget & Finance (Dept) / Office of the Public Defender</div>
+<div id='an'>Labor and Industrial Relations (Dept) / Disability Compensation Division</div>
+<div id='an'>Defense (Dept) / State Office of Homeland Security</div>
+<div id='an'>Agriculture (Dept) / Administrative Services Office</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Land Use Commission</div>
+<div id='an'>Agriculture (Dept) / Department-Wide IT Support Services</div>
+<div id='an'>Human Services (Dept) / Social Services Division</div>
+<div id='an'>Defense (Dept) / Hawaii Air National Guard	</div>
+<div id='an'>Defense (Dept) / Hawaii Army National Guard</div>
+<div id='an'>Defense (Dept) / State Office of Veteran Services</div>
+<div id='an'>Health (Dept) / Environmental Health Administration</div>
+<div id='an'>Commerce & Consumer Affairs (Dept) / Public Utilities Commission (PUC)</div>
+<div id='an'>Public Safety (Dept) / Corrections Division</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Hawaii Housing Finance & Development Corporation</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Hawaii Technology Development Corporation</div>
+<div id='an'>Labor and Industrial Relations (Dept) / Workforce Development Council</div>
+<div id='an'>Public Safety (Dept) / Sheriff Division</div>
+<div id='an'>Land & Natural Resources (Dept) / Aquatic Resources (DAR)</div>
+<div id='an'>Budget & Finance (Dept) / Financial Administration Division</div>
+<div id='an'>Transport (Dept)</div>
+<div id='an'>Land & Natural Resources (Dept)</div>
+<div id='an'>Hawaiian Home Lands (Dept) / Office of the Chairman (OCH)</div>
+<div id='an'>Commerce & Consumer Affairs (Dept)</div>
+<div id='an'>Education (Dept)</div>
+<div id='an'>Land & Natural Resources (Dept) / Engineering Division (ENG)</div>
+<div id='an'>Business Economic Dev & Tourism (Dept) / Hawaii Green Infrastructure Authority</div>
+<div id='an'>Defense (Dept) / Joint Staff</div>
+<div id='an'>Enterprise Technology Services</div>
+<div id='an'>Enterprise Technology Services / IT Governance Branch</div>
+<div id='an'>Attorney General (Dept)</div>
+<div id='an'>Defense (Dept) / Administrative Support Office</div>
 </div>
 
 

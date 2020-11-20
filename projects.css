@@ -62,17 +62,66 @@
 
 .sidebar
 {
-  height:1200px;
+  height:671px;
   width: 307px;
   float:left;
   margin-top:20px;
   margin-left:-8px;
-  background-color:gray;
+  background-color:teal;
+  overflow: visible;
+}
+
+.spacer
+{
+  height:10px;
+}
+
+.head
+{
+  height:110px;
+  width: 1520px;
+  margin-top:20px;
+  margin-left:-8px;
+  background-color:teal;
+  overflow: visible;
+}
+
+.hselect
+{
+  height:55px;
+  width: 200px;
+  background-color:teal;
+  text-align:center;
+  font-size:15pt;
+  float:left;
+  color:white;
+}
+
+.hselect:hover
+{
+  background-color:white;
+  color:teal;
+}
+
+.adjan
+{
+ margin-left:55px;
+}
+
+.adjas
+{
+  margin-left:255px;
+}
+
+#selected
+{
+  background-color:white;
+  color:teal; 
 }
 
 .select
 {
-  height:100px;
+  height:55px;
   width: 307px;
   background-color:teal;
   text-align:center;
@@ -95,11 +144,17 @@ div:target
 
 .container
 {
-  height:1200px; 
+  height:671px; 
   width:1190px;
   float:left;
   margin-top:20px;
   margin-left:14px;
+  overflow: auto;
+}
+
+.scrollhide
+{
+  overflow: hidden;
 }
 
 table, th, td
@@ -107,6 +162,7 @@ table, th, td
   color:black;
   border: 1px solid black;
   border-collapse: collapse;
+  background-color:white;
 }
 
 #an
