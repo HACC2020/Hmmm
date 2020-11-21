@@ -4,12 +4,16 @@
     background: teal;
   }
 
+.w {
+  color:white;
+}
+
 .bar {
     /* padding: 20px; */
     padding-top: 20px;
     padding-bottom: 15px;
     text-align: center;
-    background: #ddd;
+    background: lightgray;
     border-top: 25px;
     float: middle;
     display: block;
@@ -23,11 +27,17 @@
 .bar2 {
     padding-top: 20px;
     padding-bottom: 20px;
+    border:1px;
+    border-style:solid;
+    background-color:gray;
     text-align: center;
-    background: #777;
     float: middle;
     width: 100%;
     font-size: 24px;
+  }
+
+  .bar2:hover {
+    background-color:#eee;
   }
 
   #ags {

@@ -8,7 +8,7 @@ body {
 	margin-left: auto;
 }
 #title {
-	background-color: #000000;
+	background-color: teal;
 	color: #ffffff;
 	font-size: 60px;
 	text-align: center;
@@ -33,6 +33,8 @@ body {
 	border:solid;
 	border-width: 2px;
 	padding: 0px 0px 0px 0px;
+	background-color:white;
+	font-size: 18pt;
 }
 .tab:hover {
 	background-color: #A9A9A9;
